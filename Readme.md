@@ -15,6 +15,7 @@ Passionate about Cloud Computing, Infrastructure Automation, and DevOps practice
 * Terraform
 * Git & GitHub
 * Azure Monitor
+* Networking
 
 ### 🐧 Operating Systems
 
