@@ -19,6 +19,7 @@ Passionate about Cloud Computing, Infrastructure Automation, and DevOps practice
 ### 🐧 Operating Systems
 
 * Linux
+* Windows
 
 ### 📦 Containers & Orchestration
 
